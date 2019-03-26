@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553612174 source:c:\users\alumno\trabajo practico 1 ibarra-1c\ingresos.c
+	"Ingresos.h"
+
+1553613365 source:c:\users\alumno\trabajo practico 1 ibarra-1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ingresos.h"
+
+1553612132 c:\users\alumno\trabajo practico 1 ibarra-1c\ingresos.h
+
+1553613215 source:c:\users\alumno\trabajo practico 1 ibarra-1c\funcionesmatematicas.c
+
